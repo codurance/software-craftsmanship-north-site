@@ -1,3 +1,4 @@
 title: "Software Crafters North"
 description: "Software Crafters North group site."
+excerpt_separator: <!--more-->
 theme: jekyll-theme-slate

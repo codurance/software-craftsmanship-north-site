@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<ul>
+<ul class="post-excerpts">
   {% for post in site.posts %}
     <li class="post-card">
       <a href="/software-craftsmanship-north-site{{ post.url }}">{{ post.title }}</a>

@@ -2,7 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
-
+.post-excerpts {
+  list-style: none;
+}
 .post-card {
   padding: 10px;
 }

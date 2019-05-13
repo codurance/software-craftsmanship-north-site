@@ -6,12 +6,12 @@
   list-style: none;
 }
 .post-card {
-  box-shadow: 10px 10px 5px grey;
+  	box-shadow: 10px 10px 5px grey;
+	border-radius: 7px;
 }
 
 .post-card__title {
 	padding: 10px;
-	border-radius: 7px 7px 0px 0px;
 	background: #0090ff;
 	color: white;
 	text-decoration-color: white;
@@ -19,7 +19,6 @@
 
 .post-card__excerpt {
 	padding: 10px;
-	border-radius: 0px 0px 7px 7px;
 	background: #A1E9E3;
 }
 

@@ -11,14 +11,14 @@
 
 .post-card__title {
 	padding: 10px;
-	border-radius: 7px;
+	border-radius: 7px 7px 0px 0px;
 	background: #0090ff;
 	color: white;
 }
 
 .post-card__excerpt {
 	padding: 10px;
-	border-radius: 7px;
+	border-radius: 0px 0px 7px 7px;
 	background: #A1E9E3;
 }
 

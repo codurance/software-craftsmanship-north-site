@@ -6,16 +6,19 @@
   list-style: none;
 }
 .post-card {
-  background: #A1E9E3;
-  border-radius: 7px;
   box-shadow: 10px 10px 5px grey;
 }
 
 .post-card__title {
 	padding: 10px;
+	border-radius: 7px;
 	background: #0090ff;
+	color: white;
 }
 
 .post-card__excerpt {
 	padding: 10px;
+	border-radius: 7px;
+	background: #A1E9E3;
+	color: #0090ff;
 }

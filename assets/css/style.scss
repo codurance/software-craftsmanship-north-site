@@ -6,12 +6,16 @@
   list-style: none;
 }
 .post-card {
-  padding: 10px;
   background: #A1E9E3;
   border-radius: 7px;
   box-shadow: 10px 10px 5px grey;
 }
 
 .post-card__title {
+	padding: 10px;
 	background: #0090ff;
+}
+
+.post-card__excerpt {
+	padding: 10px;
 }
